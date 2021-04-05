@@ -1,0 +1,27 @@
+input.items {
+    border: none;
+}
+
+input[type=checkbox] {
+    height: 1em;
+    width: 1em;
+}
+
+div#category-generator {
+    position: sticky;
+    bottom: 0;
+}
+
+nav {
+    background-color: gold;
+}
+
+body {
+    padding-top: 60px;
+}
+
+#dashboard {
+    position: sticky;
+    top: -11px;
+    z-index: 1000;
+}
